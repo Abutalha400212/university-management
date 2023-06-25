@@ -1,14 +1,36 @@
-import express, { Application, Request, Response } from 'express'
-import cors from 'cors'
-const app: Application = express()
-app.use(cors())
+import express, { Application, NextFunction, Request, Response } from 'express';
+import cors from 'cors';
+import globalErrorHandler from './middleware/globalErrorHandler';
+import routes from './routes';
+import httpStatus from 'http-status';
+const app: Application = express();
+app.use(cors());
 
 //Parser
-app.use(express.json())
-app.use(express.urlencoded({ extended: true }))
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
-app.get('/', (req: Request, res: Response) => {
-  res.send('Working successfully')
-})
+// Application routes
+app.use('/api/v1', routes);
+app.use(globalErrorHandler);
+app.use((req: Request, res: Response, next: NextFunction) => {
+  res.status(httpStatus.NOT_FOUND).json({
+    success: false,
+    message: 'Not Found',
+    errormessage: [
+      {
+        path: req.originalUrl,
+        message: 'Api not found',
+      },
+    ],
+  });
+  next();
+});
 
-export default app
+// const getId = async () => {
+//   const result = await generatedFacultyId();
+//   return result;
+// };
+
+// getId();
+export default app;
