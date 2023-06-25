@@ -1,0 +1,792 @@
+{"level":"info","message":"🛢 Database is connected successfully"}
+{"level":"info","message":"Application listening on port 5000"}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-10T04:22:07.388Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-10T04:22:07.401Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-10T04:25:49.986Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-10T04:25:50.008Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:36:42.471Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:36:42.494Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:38:26.518Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:38:26.538Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:39:32.751Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:39:32.771Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:42:15.103Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:42:15.122Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:47:17.092Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:47:17.111Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:48:57.902Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:48:57.919Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:49:26.110Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:49:26.121Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:50:51.976Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:50:52.000Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:51:22.872Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T09:51:22.924Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T10:14:22.947Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T10:14:22.964Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:39:58.511Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:39:58.534Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:40:09.896Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:40:09.923Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:40:44.221Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:40:44.235Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:40:56.627Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:40:56.643Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:41:31.035Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:41:31.052Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:41:55.754Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:41:55.774Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:42:51.329Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:42:51.349Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:49:18.039Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:49:18.058Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:50:37.805Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:50:37.826Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:51:15.833Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:51:15.846Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:51:21.803Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:51:21.821Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:51:42.254Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:51:42.270Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:52:32.291Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T12:52:32.312Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T13:29:06.212Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T13:29:06.230Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T13:31:22.919Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T13:31:22.935Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T13:32:09.183Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T13:32:09.199Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T13:33:14.427Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T13:33:14.447Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T13:35:37.955Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-11T13:35:37.971Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:16:56.695Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:16:56.716Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:19:31.059Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:19:31.080Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:20:45.604Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:20:45.623Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:21:53.935Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:21:53.952Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:23:38.935Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:23:38.951Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:25:18.955Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:25:19.013Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:25:39.459Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:25:39.479Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:27:52.967Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:27:52.995Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:33:38.659Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:33:38.680Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:34:27.960Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-12T00:34:27.982Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T00:33:23.498Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T00:33:23.518Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T00:43:15.202Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T00:43:15.227Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T00:47:36.011Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T00:47:36.035Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T00:55:32.940Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T00:55:32.973Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T01:08:15.993Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T01:08:16.022Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T01:09:10.118Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T01:09:10.161Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T09:12:51.443Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T09:12:51.494Z'
+}
+Tue Jun 13 2023 15:13:7 [PH] info: 🛢 Database is connected successfully
+Tue Jun 13 2023 15:13:7 [PH] info: Application listening on port 5000
+Tue Jun 13 2023 15:13:15 [PH] info: 🛢 Database is connected successfully
+Tue Jun 13 2023 15:13:15 [PH] info: Application listening on port 5000
+Tue Jun 13 2023 16:6:12 [PH] info: 🛢 Database is connected successfully
+Tue Jun 13 2023 16:6:12 [PH] info: Application listening on port 5000
+Tue Jun 13 2023 17:2:7 [PH] info: 🛢 Database is connected successfully
+Tue Jun 13 2023 17:2:7 [PH] info: Application listening on port 5000
+Tue Jun 13 2023 17:2:37 [PH] info: 🛢 Database is connected successfully
+Tue Jun 13 2023 17:2:37 [PH] info: Application listening on port 5000
+Tue Jun 13 2023 17:5:32 [PH] info: 🛢 Database is connected successfully
+Tue Jun 13 2023 17:5:32 [PH] info: Application listening on port 5000
+Tue Jun 13 2023 17:6:46 [PH] info: 🛢 Database is connected successfully
+Tue Jun 13 2023 17:6:46 [PH] info: Application listening on port 5000
+Wed Jun 14 2023 10:27:59 [PH] info: 🛢 Database is connected successfully
+Wed Jun 14 2023 10:27:59 [PH] info: Application listening on port 5000
+Wed Jun 14 2023 10:42:4 [PH] info: 🛢 Database is connected successfully
+Wed Jun 14 2023 10:42:4 [PH] info: Application listening on port 5000
+Wed Jun 14 2023 10:42:26 [PH] info: 🛢 Database is connected successfully
+Wed Jun 14 2023 10:42:26 [PH] info: Application listening on port 5000
+Wed Jun 14 2023 10:46:0 [PH] info: 🛢 Database is connected successfully
+Wed Jun 14 2023 10:46:0 [PH] info: Application listening on port 5000
+Thu Jun 15 2023 11:53:38 [PH] info: 🛢 Database is connected successfully
+Thu Jun 15 2023 11:53:38 [PH] info: Application listening on port 5000
+Thu Jun 15 2023 12:0:50 [PH] info: 🛢 Database is connected successfully
+Thu Jun 15 2023 12:0:50 [PH] info: Application listening on port 5000
+Thu Jun 15 2023 12:5:13 [PH] info: 🛢 Database is connected successfully
+Thu Jun 15 2023 12:5:13 [PH] info: Application listening on port 5000
+Thu Jun 15 2023 12:9:34 [PH] info: 🛢 Database is connected successfully
+Thu Jun 15 2023 12:9:34 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 18:37:37 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 18:37:37 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 19:32:45 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 19:32:45 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 19:33:3 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 19:33:3 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 19:34:34 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 19:34:34 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 19:39:7 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 19:39:7 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 19:41:23 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 19:41:23 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 19:41:31 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 19:41:31 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 19:43:19 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 19:43:19 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 19:43:39 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 19:43:40 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 19:45:31 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 19:45:31 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 19:46:39 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 19:46:39 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 19:47:59 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 19:47:59 [PH] info: Application listening on port 5000
+Fri Jun 16 2023 23:28:54 [PH] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 23:28:54 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:24:5 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:24:5 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:25:22 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:25:23 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:26:49 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:26:49 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:26:55 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:26:55 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:28:43 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:28:43 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:29:30 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:29:30 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:29:41 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:29:41 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:29:53 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:29:53 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:31:22 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:31:22 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:34:38 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:34:38 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:35:3 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:35:3 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:41:19 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:41:19 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:48:4 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:48:4 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:50:2 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:50:2 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:51:21 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:51:21 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:52:6 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:52:7 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:55:49 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:55:49 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:55:56 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:55:56 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:59:20 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:59:20 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 7:59:59 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 7:59:59 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 8:1:21 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 8:1:21 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 8:2:7 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 8:2:7 [PH] info: Application listening on port 5000
+Fri Jun 23 2023 17:33:16 [PH] info: 🛢 Database is connected successfully
+Fri Jun 23 2023 17:33:16 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 5:55:0 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 5:55:0 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 5:55:17 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 5:55:17 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:1:0 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:1:0 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:3:20 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:3:20 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:4:39 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:4:39 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:4:50 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:4:50 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:5:9 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:5:9 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:5:30 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:5:30 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:5:56 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:5:56 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:13:1 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:13:1 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:13:10 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:13:10 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:13:26 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:13:26 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:15:21 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:15:21 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:17:43 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:17:43 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:18:57 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:18:57 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:33:12 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:33:12 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:34:43 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:34:43 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:37:15 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:37:15 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:46:22 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:46:22 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:48:57 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:48:58 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:49:27 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:49:27 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:50:13 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:50:13 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 6:51:1 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 6:51:1 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 7:11:33 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 7:11:33 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 7:14:52 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 7:14:52 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 7:21:12 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 7:21:12 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 7:26:22 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 7:26:22 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 7:30:53 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 7:30:53 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 8:3:32 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 8:3:32 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:7:10 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:7:10 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:7:25 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:7:25 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:10:58 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:10:58 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:11:21 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:11:21 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:13:7 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:13:7 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:13:19 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:13:19 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:14:27 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:14:27 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:15:3 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:15:3 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:22:22 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:22:22 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:23:59 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:23:59 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:26:40 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:26:40 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:28:15 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:28:15 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:29:27 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:29:27 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:30:43 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:30:43 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:31:29 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:31:29 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:49:40 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:49:40 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:51:8 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:51:8 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 10:53:31 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 10:53:31 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:9:0 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:9:0 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:9:3 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:9:3 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:12:10 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:12:10 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:25:24 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:25:24 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:26:49 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:26:50 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:27:9 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:27:9 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:30:8 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:30:8 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:33:53 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:33:53 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:34:14 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:34:14 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:34:38 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:34:38 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:34:43 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:34:43 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:36:8 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:36:8 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:39:14 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:39:14 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:41:26 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:41:26 [PH] info: Application listening on port 5000
+Sun Jun 25 2023 11:42:33 [PH] info: 🛢 Database is connected successfully
+Sun Jun 25 2023 11:42:33 [PH] info: Application listening on port 5000
