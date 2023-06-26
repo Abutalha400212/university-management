@@ -17,20 +17,13 @@ app.use((req: Request, res: Response, next: NextFunction) => {
   res.status(httpStatus.NOT_FOUND).json({
     success: false,
     message: 'Not Found',
-    errormessage: [
+    errorMessages: [
       {
         path: req.originalUrl,
-        message: 'Api not found',
+        message: 'API Not Found',
       },
     ],
   });
   next();
 });
-
-// const getId = async () => {
-//   const result = await generatedFacultyId();
-//   return result;
-// };
-
-// getId();
 export default app;

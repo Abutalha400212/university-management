@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable no-console */
 /* eslint-disable no-unused-expressions */
-import { ErrorRequestHandler, NextFunction, Request, Response } from 'express';
+import { ErrorRequestHandler, Request, Response } from 'express';
 import handleValidationError from '../errors/validationErrorHandler';
 import { IGenericErrorMessage } from '../interfaces/error.interface';
 import ApiError from '../errors/apiError';
@@ -12,8 +12,7 @@ import handleZodError from '../errors/handleZodError';
 const globalErrorHandler: ErrorRequestHandler = (
   error,
   req: Request,
-  res: Response,
-  next: NextFunction
+  res: Response
 ) => {
   let statusCode = 500;
   let message = 'something went wrong';
@@ -57,7 +56,6 @@ const globalErrorHandler: ErrorRequestHandler = (
     errorMessages,
     stack: config.env !== 'production' ? error.stack : undefined,
   });
-  next();
 };
 
 export default globalErrorHandler;

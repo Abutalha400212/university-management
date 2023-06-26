@@ -20,18 +20,34 @@ export const generatedStudentId = async (
   }${incrementId}`;
   return incrementId;
 };
-// export const findLastFacultyId = async () => {
-//   const lastFaculty = await User.findOne({}, { id: 1, _id: 0 })
-//     .sort({
-//       createdAt: -1,
-//     })
-//     .lean();
-//   return lastFaculty?.id ? lastFaculty.id.substring(4) : undefined;
-// };
-// export const generatedFacultyId = async () => {
-//   const currentId =
-//     (await findLastFacultyId()) || (0).toString().padStart(5, '0');
-//   let incrementId = (parseInt(currentId) + 1).toString().padStart(5, '0');
-//   incrementId = `F-${incrementId}`;
-//   return incrementId;
-// };
+export const findLastFacultyId = async () => {
+  const lastFaculty = await User.findOne({ role: 'student' }, { id: 1, _id: 0 })
+    .sort({
+      createdAt: -1,
+    })
+    .lean();
+  return lastFaculty?.id ? lastFaculty.id.substring(4) : undefined;
+};
+export const generatedFacultyId = async () => {
+  const currentId =
+    (await findLastFacultyId()) || (0).toString().padStart(5, '0');
+  let incrementId = (parseInt(currentId) + 1).toString().padStart(5, '0');
+  incrementId = `F-${incrementId}`;
+  return incrementId;
+};
+
+export const findLastAdminId = async () => {
+  const lastAdmin = await User.findOne({ role: 'admin' }, { id: 1, _id: 0 })
+    .sort({
+      createdAt: -1,
+    })
+    .lean();
+  return lastAdmin?.id ? lastAdmin.id.substring(4) : undefined;
+};
+export const generatedAdminId = async () => {
+  const currentId =
+    (await findLastAdminId()) || (0).toString().padStart(5, '0');
+  let incrementId = (parseInt(currentId) + 1).toString().padStart(5, '0');
+  incrementId = `A-${incrementId}`;
+  return incrementId;
+};
